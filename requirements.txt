@@ -1,3 +1,9 @@
 numpy
 imageio
 matplotlib
+requests
+apimoex 
+aiohttp
+pandas
+scikit-learn
+torch
